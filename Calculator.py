@@ -16,4 +16,6 @@ def simple_calc():
 
     # Run the simple calculator
 simple_calc()
+## Perfect - Edited by Wajih
+
 
